@@ -1,0 +1,23 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.gameContainer{
+  
+  justify-content:flex-start;
+  width: 90%;
+  max-width: 1600px;
+  border:1px solid blue;
+  margin: 0 auto;
+  background-color:#008080;
+  display:flex;
+  
+}
+
+
+
+
+
+
+
